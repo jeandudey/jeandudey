@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="./img0.png"/>
+<img src="./img0.svg" width="320" heigh="200"/>
